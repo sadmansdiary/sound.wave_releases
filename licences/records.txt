@@ -1,0 +1,3 @@
+# Licence records: hashes and signatures only. One line per licence, made with soundwave-licence (docs/LICENCES.md).
+# A test licence, valid 7 days from 2026-11-13 (pair: Pi and controller).
+53574c49433101025177436afded4705e57187c6fffe93a31eb33fa8ff30872f52f0831e70dd6b880554f3616207aa2fc5320f88ebc4fcffb2445773cfbcc266df49fccae521ee44397b12fa04dd5523e9197ab488d01d7c595e2f5a5699d9093b0b4ef43d24cde6000000006af74409000000006b007e89.170e2663969a4466fc50c82dbd5a8aff77122d4b736b03aa7442c973cbc899f942c854f1a9e3b860ab9efbfe099fd06d78055f3f8585d972b20f98bb7d34c100
